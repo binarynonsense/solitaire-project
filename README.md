@@ -8,7 +8,7 @@ Right now you can play hands based on a couple of card layouts and randomly modi
 
 ## Downloads
 
-- More info, builds and a playable web version are available on [itch](https://binarynonsense.itch.io/solitaire)
+More info, builds and a playable web version are available on [itch](https://binarynonsense.itch.io/solitaire)
 
 ## License
 
