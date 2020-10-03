@@ -1,4 +1,4 @@
-# Soilitaire Project
+# Solitaire Project
 
 A small game, inspired by golf solitaire and similar games like Faerie Solitaire, that I've created to learn Godot Engine and GDScript.
 
