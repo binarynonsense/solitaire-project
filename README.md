@@ -1,6 +1,10 @@
 # Solitaire Project
 
-A small game, inspired by golf solitaire and similar games like Faerie Solitaire, that I've created to learn Godot Engine and GDScript.
+A small game, inspired by golf solitaire and similar games like Faerie Solitaire, that I created to learn Godot Engine and GDScript.
+
+## Current State
+
+Right now you can play hands based on a couple of card layouts and randomly modified depending on the selected difficulty (by default the difficulty is set to random). I haven't had the time to fine tune the difficulty so there's room for improvement there for potential future versions. Also, I'd like to add a mode with more hand crafted levels and objectives at some point and maybe take some time to refactor the code (I was learning godot and gdscript while making the game, so I'm sure it can be improved).
 
 ## Downloads
 
